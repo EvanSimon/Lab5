@@ -1,0 +1,7 @@
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\bin\Debug\New Lab_5.exe.config
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\bin\Debug\New Lab_5.exe
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\bin\Debug\New Lab_5.pdb
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\obj\Debug\New Lab_5.csprojAssemblyReference.cache
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\obj\Debug\New Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\obj\Debug\New Lab_5.exe
+C:\Users\Evans\source\repos\New Lab_5\New Lab_5\obj\Debug\New Lab_5.pdb
